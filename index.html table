@@ -1,0 +1,30 @@
+<html>
+<head>
+  <style>
+    table , th , td
+    {border: 1px red ; padding : 5px ; text-align ; left;}
+    </style>
+</head>
+<body>
+  <h2> basic table </h2>
+  <table> Employee details
+    <tr>
+      <td> Name </td>
+      <td> Age </td>
+      <td> Address </td>
+    </tr>
+    <tr>
+      <td> Aditya </td>
+      <td> 18 </td>
+      <td> Mumbai </td>
+    </tr>
+    <tr>
+      <td> Mohit </td>
+      <td> 19 </td>
+      <td> Mumbai </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+      
